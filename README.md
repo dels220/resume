@@ -1,2 +1,2 @@
 # resume
-This is my resume. Hire me! 
+This is my resume. Please hire me! 
