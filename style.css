@@ -1,6 +1,16 @@
 body {
-  background-color: rebeccapurple;
-  color: white;
+  background-color:#20BE8E;
+
+  color: Black;
   font-family: serif;
 
 }
+  .left {
+    float: left;
+    width: 45%
+  }
+
+  .right {
+    float: right;
+    width: 45%
+  }
