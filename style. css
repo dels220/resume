@@ -1,2 +1,6 @@
-body 
-background color red white
+body {
+  background-color: rebeccapurple;
+  color: white;
+  font-family: serif;
+
+}
